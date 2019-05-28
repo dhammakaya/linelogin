@@ -70,7 +70,7 @@ You can download the starter app to your local machine to test and make changes 
 1. Clone this GitHub repository.
 
     ```shell
-    git clone https://github.com/line/line-login-starter.git
+    git clone https://github.com/dhammakaya/linelogin.git
     ```
 
 1. `cd` into your Git directory
